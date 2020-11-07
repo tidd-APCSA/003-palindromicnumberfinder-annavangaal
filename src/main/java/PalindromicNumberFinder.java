@@ -21,7 +21,7 @@ public class PalindromicNumberFinder {
          break;
         }
       }
-      return searchNum;
+      return searchNum-num;
     }
 
     // this is a helper method for searchForPalindromicNum. It's purpose is to test if a number is actually a palindrome

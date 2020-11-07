@@ -3,7 +3,6 @@ public class PalindromicRunner {
         // be sure you're testing each method as you work then produce your final output using the toString method
         PalindromicNumberFinder odometer = new PalindromicNumberFinder(72927);
 
-        System.out.println(odometer.searchForPalindromicNum(72927));
         System.out.println(odometer.toString());
     }
 }
