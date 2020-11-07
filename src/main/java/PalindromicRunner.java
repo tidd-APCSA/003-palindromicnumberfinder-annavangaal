@@ -4,5 +4,6 @@ public class PalindromicRunner {
         PalindromicNumberFinder odometer = new PalindromicNumberFinder(72927);
 
         System.out.println(odometer.searchForPalindromicNum(72927));
+        System.out.println(odometer.toString());
     }
 }
